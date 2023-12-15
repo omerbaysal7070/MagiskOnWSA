@@ -31,8 +31,8 @@ on:
         required: true
         default: "none"
         type: choice
-        options:
-        - none
+        options
+        pico
         - super
         - stock
         - full
